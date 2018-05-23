@@ -1,3 +1,5 @@
+Forked from (https://github.com/oblador/angular-scroll/)
+
 angular-scroll
 ==============
 
@@ -10,13 +12,9 @@ Check out [the live demo](http://oblador.github.io/angular-scroll/) or the [sour
 Install
 -------
 
-#### With bower:
-
-    $ bower install angular-scroll
-
 #### With npm (for use with browserify):
 
-    $ npm install angular-scroll
+    $ npm install @oneboxtds/angular-scroll
 
 You can also download the [production version](https://raw.github.com/oblador/angular-scroll/master/angular-scroll.min.js) or the [development version](https://raw.github.com/oblador/angular-scroll/master/angular-scroll.js).
 

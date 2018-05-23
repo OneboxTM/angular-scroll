@@ -1,6 +1,6 @@
 {
-  "name": "angular-scroll",
-  "version": "1.0.2",
+  "name": "@oneboxtds/angular-scroll",
+  "version": "1.0.3",
   "description": "Scrollspy, animated scrollTo and scroll events",
   "keywords": [
     "angular",
@@ -12,10 +12,10 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://git@github.com:oblador/angular-scroll.git"
+    "url": "git://git@github.com:OneboxTM/angular-scroll.git"
   },
   "bugs": {
-    "url": "https://github.com/oblador/angular-scroll/issues"
+    "url": "https://github.com/OneboxTM/angular-scroll/issues"
   },
   "scripts": {
     "start": "http-server -p 8888",
